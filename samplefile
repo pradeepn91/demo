@@ -1,3 +1,8 @@
 this is a sample file to commit to a remote repositor
 this is commit No1
 this is commit No2
+<<<<<<< HEAD
+=======
+this is commit No3
+this is commit No4
+>>>>>>> ffe53c5... commit No4
