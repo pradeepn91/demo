@@ -5,4 +5,9 @@ this is commit No2
 =======
 this is commit No3
 this is commit No4
+<<<<<<< HEAD
 >>>>>>> ffe53c5... commit No4
+=======
+this is commit No3.5
+
+>>>>>>> cc5becc... commit No3.5
